@@ -35,7 +35,7 @@ dependencies:
     git:
       url: https://github.com/hunch-social/isar.git
       path: packages/isar_flutter_libs
-      ref: 3.1-fork
+      ref: 3fe4bce93e235fc9cb1b14837c701edb542cfa11
   path_provider: ^2.1.1
   path: ^1.8.2
 
