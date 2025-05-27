@@ -32,14 +32,14 @@ dependencies:
   async: ^2.10.0
   isar:
     git:
-      url: https://github.com/isar/isar.git
+      url: https://github.com/hunch-social/isar.git
       path: packages/isar
-      ref: c1b52b76d88d0bc4ba1a0de3440d7b925c17ea6b
+      ref: bd7a4a87297b0af9928cf4a604f586ec9056bfd3
   isar_flutter_libs:
     git:
-      url: https://github.com/isar/isar.git
+      url: https://github.com/hunch-social/isar.git
       path: packages/isar_flutter_libs
-      ref: c1b52b76d88d0bc4ba1a0de3440d7b925c17ea6b
+      ref: bd7a4a87297b0af9928cf4a604f586ec9056bfd3
   path_provider: ^2.1.1
   path: ^1.8.2
 
