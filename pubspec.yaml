@@ -51,4 +51,7 @@ dev_dependencies:
   stack_trace: ^1.11.0
   json_serializable: ^6.6.2
   build_runner: ^2.3.3
-  isar_generator: ^3.1.0+1
+  isar_generator:
+    git:
+      url: https://github.com/isar-community/isar
+      path: packages/isar_generator
